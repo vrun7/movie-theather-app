@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883761218131",
+    "project_id": "movietheatreapp-1858a",
+    "storage_bucket": "movietheatreapp-1858a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883761218131:android:097ccaacd87f215a5dbca6",
+        "android_client_info": {
+          "package_name": "com.example.movie_theatre_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NBcZjj5o5qBhNpoyKU0eIjejq89W3ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
